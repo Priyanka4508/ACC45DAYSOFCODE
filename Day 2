@@ -1,0 +1,10 @@
+#include<stdio.h>
+int main()
+{
+int x,y,z, result;
+print("Enter the value of x,y and z");
+scanf("%d%d%d",&x,&y,&z);
+result=(x+y)/z;
+printf("maximum number of chocolates is %d",result);
+return 0;
+}
