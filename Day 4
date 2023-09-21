@@ -1,0 +1,11 @@
+#include<stdio.h>
+int main ()
+{
+int y,cost;
+printf("Enter the value of y");
+scanf("%d",&y);
+cost = y*2;
+printf("total amount of chocolate is %d\n",cost);
+return 0;
+}
+
