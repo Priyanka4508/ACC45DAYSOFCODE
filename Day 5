@@ -1,0 +1,17 @@
+#include<stdio.h>
+int main()
+{
+int x;
+printf("Enter the integer");
+scanf("%d",&x);
+if(15<x)
+{
+printf("Battery is high");
+}
+else
+{
+printf("Battery is low ");
+}
+return 0;
+}
+
