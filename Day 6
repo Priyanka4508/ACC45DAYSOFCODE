@@ -1,0 +1,10 @@
+#include<stdio.h>
+int main()
+{
+int N,c;
+printf("Enter the number");
+scanf("%d",&N);
+c=N/4;
+printf("number of cars is %d\n",c);
+return 0;
+}
