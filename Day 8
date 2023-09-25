@@ -1,0 +1,8 @@
+#include<stdio.h>
+int main ()
+{
+int x=100,y=10, people;
+people=x/(y*2);
+printf("Number of peoples is %d\n", people);
+return 0;
+}
