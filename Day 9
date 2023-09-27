@@ -1,0 +1,9 @@
+#include<stdio.h>
+int main()
+{
+int x=2000,y=5000,months =2,cost;
+cost = x*months;
+printf("rent of cooler is %d\n",cost);
+printf("rent of cooler for two months are less than purchasing");
+return 0;
+}
