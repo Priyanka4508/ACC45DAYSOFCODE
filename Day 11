@@ -1,0 +1,8 @@
+#include<stdio.h>
+int main ()
+{
+int x=3 ,y=36, result;
+result=x*y;
+printf("maximum number of runs to win the match is %d\n",result);
+return 0;
+}
