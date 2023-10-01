@@ -1,0 +1,14 @@
+#include<stdio.h>
+int main ()
+{
+int A,B,X,Y, result;
+printf("Enter the value of A,B,X,Y");
+scanf("%d%d%d%d",&A,&B,&C,&D);
+ result= A.B && X.Y;
+if(A.B>X.Y)
+printf("yes");
+else
+printf("No");
+return 0;
+}
+
