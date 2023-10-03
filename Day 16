@@ -1,0 +1,8 @@
+#include<stdio.h>
+int main()
+{
+int x=20,M=10, result;
+result=x/M;
+printf(" Each Friend gets even number of candies is %d\n",result);
+return 0;
+}
