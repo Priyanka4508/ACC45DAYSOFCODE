@@ -1,0 +1,8 @@
+#include<stdio.h>
+int main ()
+{
+int N=10,x=2, result;
+result= N-x;
+printf("maximum number of operations is %d\n",result);
+return 0;
+}
